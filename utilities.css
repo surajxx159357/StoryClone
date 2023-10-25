@@ -1,0 +1,90 @@
+body .bigBtn
+{
+    height: 55px;
+    width: 200px;
+    margin-top: 37.3px;
+    border-radius: 30px;
+    border: 1px solid #c6c1c1c1 !important;
+    background-color: white;
+    letter-spacing: 2.3px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+body .bigBtn:hover
+{
+    height: 55px;
+    width: 200px;
+    margin-top: 37.3px;
+    border-radius: 30px;
+    border: 1px solid rgba(17, 224, 224, 0.874) !important;
+    background-color: white;
+    letter-spacing: 2.3px;
+    color: rgba(17, 224, 224, 0.874);
+    font-family: 'Source Sans 3', sans-serif;
+    transition: ease-in-out 0.2s;
+}
+
+body .mediumBtn
+{
+    height: 51.8px;
+    width: 155px;
+    margin-top: 37.3px;
+    border-radius: 30px;
+    border: 1px solid #c6c1c1c1 !important;
+    background-color: white;
+    letter-spacing: 2.3px;
+    font-size: 12.5px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+body .mediumBtn:hover
+{
+    height: 51.8px;
+    width: 155px;
+    margin-top: 37.3px;
+    border-radius: 30px;
+    border: 1px solid rgba(17, 224, 224, 0.874) !important;
+    background-color: white;
+    letter-spacing: 2.3px;
+    color: rgba(17, 224, 224, 0.874);
+    font-size: 12.5px;
+    font-family: 'Source Sans 3', sans-serif;
+    transition: ease-in-out 0.2s;
+}
+
+body code
+{
+    background: #f1f1f1;
+    padding: 4px 6px;
+    margin:0px 4px;
+    border-radius: 3px;
+    font-size: 90%;
+    font-weight: 200;
+    font-family: "Courier New", monospace; /* important font-family for writing codes */
+    text-decoration: none!important;
+}
+
+body span
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+body span:hover
+{
+    text-decoration: none;
+    color: rgba(17, 224, 224, 0.874);
+    transition: ease-in-out 0.2s;
+}
+
+body strong
+{
+    font-weight: normal;
+}
+
+#FooterSection ul li:hover
+{
+    color: rgba(17, 224, 224, 0.874);
+    border: 1px solid rgba(17, 224, 224, 0.874);
+    transition: ease-in-out 0.2s;
+}
