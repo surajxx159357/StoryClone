@@ -10,9 +10,9 @@
 3) GallerySection
 4) ItemSection
 5) FooterSection
+<img width="527" alt="Screenshot 2023-10-26 014022" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e31917b2-97b9-425b-b480-3909d13369f2">
 
 #Do's Before Starting to work on Project
-
 
 -> Create a Separate folder for this project ,you can give your own name to the folder.
 -> Create the images folder there.
