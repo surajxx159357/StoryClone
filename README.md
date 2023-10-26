@@ -63,11 +63,12 @@
 
 #Instructions To Create itemSection
 
-<img width="852" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/7de12923-1fa0-4594-b110-81d1abaaf8b9">
+<img width="949" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e7986ef1-9d7e-4418-9db1-2eadd6143d3c">
 
-<img width="715" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e57cd97c-4a8a-4f86-a659-2cc172b931fb">
+<img width="943" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/886027bb-e5b0-4a1b-83fe-2567ce74c782">
 
-<img width="679" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/7bdc5211-cf5b-47c5-b5b0-7c3e5f91df90">
+<img width="949" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/45822483-5644-44c7-b2f1-da942b02df48">
+
 
 -> This Section contains Some Description and multiple icons.
 -> here we can create separate div for each icon.
