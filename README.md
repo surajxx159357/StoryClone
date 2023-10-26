@@ -65,7 +65,8 @@
 
 <img width="949" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e7986ef1-9d7e-4418-9db1-2eadd6143d3c">
 
-<img width="943" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/886027bb-e5b0-4a1b-83fe-2567ce74c782">
+<img width="949" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/8f7a5491-4d28-4aab-a4d2-1abd587633b8">
+
 
 <img width="949" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/45822483-5644-44c7-b2f1-da942b02df48">
 
