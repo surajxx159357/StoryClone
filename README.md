@@ -43,10 +43,6 @@
 <img width="946" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/66612314-d51b-466b-8b96-e1d8dbe291f5">
 <img width="948" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/ba3982fa-5669-4f21-a590-b6dee174f995">
 
-
-
-<img width="510" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/cd8526fc-1d90-44cd-b728-fd6cf027974c">
-
 -> Create a Div having Id=SpotLightSection.
 -> Divide the whole div into 3 divs subsections.
 -> Initially we will consider only one div subsection, In this subsection again it is divided into two parts image and description.
