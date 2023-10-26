@@ -39,7 +39,11 @@
 
 #Instructions To Create SpotLightSections
 
-<img width="512" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/a3598280-888f-4c5d-9932-18c92fae07dd">
+<img width="947" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/8653d289-d486-487a-8366-8bae814290d3">
+<img width="946" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/66612314-d51b-466b-8b96-e1d8dbe291f5">
+<img width="948" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/ba3982fa-5669-4f21-a590-b6dee174f995">
+
+
 
 <img width="510" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/cd8526fc-1d90-44cd-b728-fd6cf027974c">
 
@@ -51,7 +55,8 @@
 
 #Instructions To Create GallerySection
 
-<img width="512" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/1c285522-dcb6-4da6-80b7-b1cfe50b0f59">
+<img width="947" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/a4b9623b-5d9b-45d7-bff0-691ceafdfcf9">
+
 
 -> This section is not easy but not impossible.
 -> first create a div and give id="GallerySection".
@@ -62,8 +67,11 @@
 
 #Instructions To Create itemSection
 
-<img width="503" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/f0b459ad-4490-4657-9539-0e0774e33c29">
-<img width="440" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e9130197-ceb8-40d0-8fc7-40b44ef442c4">
+<img width="852" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/7de12923-1fa0-4594-b110-81d1abaaf8b9">
+
+<img width="715" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/e57cd97c-4a8a-4f86-a659-2cc172b931fb">
+
+<img width="679" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/7bdc5211-cf5b-47c5-b5b0-7c3e5f91df90">
 
 -> This Section contains Some Description and multiple icons.
 -> here we can create separate div for each icon.
@@ -73,7 +81,8 @@
 
 #Instructions To Create Footer
 
-<img width="517" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/716482a9-3631-4d26-9835-b97e7decf5ed">
+<img width="795" alt="image" src="https://github.com/surajxx159357/StoryClone/assets/85638363/b4ffb285-f109-42db-94bf-447dbf44aefe">
+
 
 -> Again in Footer Section we have used icon of facebook, instagram, linkedIn, Twitter,etc.
 -> we'll create a div and provide id="FooterSection".
